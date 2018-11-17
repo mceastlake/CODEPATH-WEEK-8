@@ -35,7 +35,8 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR was pretty simple to find. We could see the user from the inside. We needed to find the user from the outside.
+<img src="IDOR.gif">
 
 Vulnerability #2: __________________
 
