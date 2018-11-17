@@ -30,8 +30,8 @@ Vulnerability #1:
 Finding this vulnerability was just a matter of looking in the html response. The bug happens when a user dumps a script into the form, and when the admin opens the page, it triggers. 
 <img src="XSS.gif">
 
-Vulnerability #2: __________________
-
+Vulnerability #2: Enumeration - the admin had accounted for current users, which appeared in bold if your password was off, and if you put in an invalid user, it would not be bold.
+<img src="enumeration.gif">
 
 ## Red
 
