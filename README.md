@@ -16,8 +16,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: 
-The blue site left a vulnerability on the 
+Vulnerability #1: SQLI - The blue site left a vulnerability in the URL.
+
 <img src="SQLI.gif">
 
 
