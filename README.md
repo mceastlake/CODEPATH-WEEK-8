@@ -17,15 +17,18 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: 
+The blue site left a vulnerability on the 
 <img src="SQLI.gif">
-SQLI. I was pounding away trying to put it in the login screen. 
+
 
 Vulnerability #2: __________________
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: 
+Finding this vulnerability was just a matter of looking in the html response. The bug happens when a user dumps a script into the form, and when the admin opens the page, it triggers. 
+<img src="XSS.gif">
 
 Vulnerability #2: __________________
 
