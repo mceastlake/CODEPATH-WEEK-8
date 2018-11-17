@@ -21,7 +21,7 @@ Vulnerability #1: SQLI - The blue site left a vulnerability in the URL.
 <img src="SQLI.gif">
 
 
-Vulnerability #2: __________________
+Vulnerability #2: CSRF
 
 
 ## Green
@@ -38,10 +38,10 @@ Vulnerability #2: Enumeration - the admin had accounted for current users, which
 Vulnerability #1: IDOR was pretty simple to find. We could see the user from the inside. We needed to find the user from the outside.
 <img src="IDOR.gif">
 
-Vulnerability #2: __________________
+Vulnerability #2: Someone changed the password to pperson. I'm locked out. 
 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Unnumerable.
 
